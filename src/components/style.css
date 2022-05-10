@@ -1,0 +1,27 @@
+.navbar-dark {
+    background-color: #FD5D5D !important;
+    color: #FFF7BC !important;
+    font-weight: bold;
+}
+.btn-outline-success{
+    background-color: #C0EDA6;
+    color: black;
+}
+.btn-primary {
+    background-color: #FF8080;
+    color: black;
+}
+.btn-primary:hover {
+    background-color: #C0EDA6;
+    color: black;
+}
+.card{
+    margin:20px;
+    border-radius: 5px;
+}
+.nav-link:hover{
+    color: black;
+}
+.nav-item:hover{
+    color: black;
+}
